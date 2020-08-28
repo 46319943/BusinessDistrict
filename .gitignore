@@ -1,0 +1,5 @@
+*.py*
+setting.*
+*.log
+.vscode
+slab
